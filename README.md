@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Jayant Singh Rana 👋
 
-<!--
-**JayantSRana/JayantSRana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineer (2022–2026)  
+🏫 Thapar Institute of Engineering & Technology  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I build IoT-based smart systems integrating sensors, microcontrollers, and data-driven solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused on:
+- Embedded Systems
+- IoT Monitoring Solutions
+- Cost-effective Product Design
+- AI-integrated Hardware Systems
+
+## 🛠 Tech Stack
+Programming: C, C++, Python  
+Hardware: Arduino, ESP32, PCB Design  
+Tools: MATLAB, Proteus, Wokwi, Git  
+
+## 🔬 Current Project
+Landslide Detection & Early Warning System using IoT & NDVI
+
+## 📫 Connect With Me
+LinkedIn: https://www.linkedin.com/in/jayant-singh-rana-a1a729265/
