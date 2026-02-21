@@ -63,29 +63,9 @@ Proteus • Wokwi • Arduino IDE
 - Environmental-based dynamic LED system  
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JayantSRana&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSRana&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JayantSRana&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/jayant-singh-rana-a1a729265">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
-📧 Email: jranabe22@thapar.edu  
+Linkedin: https://linkedin.com/in/jayant-singh-rana-a1a729265
+Email: jrana_be22@thapar.edu  
 
 ---
 
