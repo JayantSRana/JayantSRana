@@ -30,18 +30,10 @@
 </p>
 
 ### 🔌 Hardware & Embedded
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
-
-ESP32 • Microcontrollers • PCB Design • Sensor Integration
+Arduino • ESP32 • Microcontrollers • PCB Design • Sensor Integration
 
 ### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=matlab,git" />
-</p>
-
-Proteus • Wokwi • Arduino IDE
+Matlab • Proteus • Wokwi • Arduino IDE
 
 ---
 
