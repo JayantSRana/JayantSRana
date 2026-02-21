@@ -18,7 +18,7 @@ Hardware: Arduino, ESP32, PCB Design
 Tools: MATLAB, Proteus, Wokwi, Git  
 
 ## 🔬 Current Project
-Landslide Detection & Early Warning System using IoT & NDVI
+
 
 ## 📫 Connect With Me
 LinkedIn: https://www.linkedin.com/in/jayant-singh-rana-a1a729265/
