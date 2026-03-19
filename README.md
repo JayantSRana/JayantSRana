@@ -1,66 +1,27 @@
-<h1 align="center">
-  Hi 👋, I'm Jayant Singh Rana
-</h1>
+# 💫 About Me:
+🔑 I’m currently working on: IoT-based smart monitoring systems, including a predictive landslide early warning project.<br><br>🍀 I’m looking to collaborate on: Embedded systems, IoT projects, and sensor integration applications.<br><br>🌟 I’m looking for help with: Exploring AI-integrated IoT and low-power embedded architectures.<br><br>📚 I’m currently learning: Advanced AI integration techniques for IoT and low-power embedded system design.<br><br>📝 Ask me about: Embedded C/C++, ESP32, Arduino, and building cost-effective hardware prototypes.<br><br>🎓 Fun fact: I built a functional landslide prediction system for just ₹5,000, compared to systems costing over ₹50,000.<br><br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=700&lines=Electronics+%26+Communication+Engineer;IoT+%7C+Embedded+Systems+Developer;ESP32+%7C+Arduino+%7C+Microcontrollers;Building+Intelligent+Smart+Systems" />
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JayantSRana&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.jayrana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jayant Singh Rana) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/just_jayrana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayantrana2004@gmail.com) 
 
----
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=JayantSRana&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JayantSRana&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSRana&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🚀 About Me
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JayantSRana&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
-🎓 Electronics & Communication Engineering @ Thapar Institute (2022–2026)  
-🔭 Passionate about **IoT-based Smart Monitoring Systems**  
-⚡ Specialized in **Embedded Systems & Sensor Integration**  
-🧠 Exploring **AI-Integrated IoT & Low-Power Embedded Architectures**  
-💡 Focused on building **cost-effective real-world hardware solutions**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
----
-
-## 🛠 Tech Stack
-
-### 👨‍💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
-</p>
-
-### 🔌 Hardware & Embedded
-Arduino • ESP32 • Microcontrollers • PCB Design • Sensor Integration
-
-### 🧰 Tools & Platforms
-Matlab • Proteus • Wokwi • Arduino IDE
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=JayantSRana&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=JayantSRana&icon=10&color=13)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-### 🌍 IoT-Based Predictive Landslide Early Warning System
-- Multi-sensor integration using ESP32  
-- NDVI-based environmental monitoring  
-- Achieved 85% prediction accuracy  
-- Cost-efficient prototype (₹5,000 vs ₹50,000+ systems)
-
-### 🛒 RFID-Based Smart Billing System
-- Arduino + RFID-based automated billing  
-- Reduced checkout time by 70%  
-- Real-time cart tracking system  
-
-### 💡 IoT Mood-Adaptive Smart Lamp
-- ESP32 + NeoPixel + Sensors  
-- Environmental-based dynamic LED system  
-
----
-## 🤝 Connect With Me
-Linkedin: https://linkedin.com/in/jayant-singh-rana-a1a729265
-Email: jrana_be22@thapar.edu  
-
----
-
-<p align="center">
-  ⭐ <i>"Building intelligent embedded systems for real-world impact."</i>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
