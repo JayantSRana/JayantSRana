@@ -2,14 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Jayant+Singh+Rana;IoT+%26+Embedded+Systems+Engineer;AI+%2F+Edge+AI+Builder;Electronics+%26+Communication+Engineer;Product+Design+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Jayant+Singh+Rana;IoT+%26+Embedded+Systems+Engineer;Edge+AI+%26+Computer+Vision+Builder;Electronics+%26+Communication+Engineer;Product-Minded+Maker" alt="Typing SVG" />
 
 <br/>
 
 <p>
   <img src="https://img.shields.io/badge/BE_ECE-Thapar_Institute-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/CBSE_XII-83.6%25-10B981?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Grad_Year-2026-10B981?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Ludhiana,_Punjab,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
@@ -40,15 +40,15 @@
 
 ---
 
-## About
+## About Me
 
-I am an **Electronics & Communication Engineering** student building **real-world IoT + AI systems** — from smart energy optimization to environmental monitoring. Instead of just learning concepts, I focus on end-to-end systems that combine embedded hardware, cloud platforms, and AI models.
+I build **real-world IoT + AI systems** that solve practical problems — from smart energy optimization to environmental monitoring [file:1]. Rather than stopping at theory, I engineer end-to-end pipelines that combine embedded hardware, cloud platforms, and AI models.
 
-Currently pursuing my B.E. at **Thapar Institute of Engineering & Technology, Patiala** (2022–2026), with hands-on work spanning ESP32/Arduino prototyping, YOLOv5-based edge AI, and Azure IoT Hub cloud integration.
+Currently a final-year **Electronics and Communication Engineering** student at **Thapar Institute of Engineering & Technology, Patiala** (2022–2026), with hands-on experience in ESP32/Arduino prototyping, YOLOv5-based edge AI, and Azure IoT Hub integration [file:1][file:2].
 
-I combine technical building with leadership — from mentoring hardware teams to managing 150+ participant campus events with ₹25,000+ operational budgets.
+Beyond building, I lead — from mentoring hardware teams at IETE to running 150+ participant campus events with ₹25,000+ operational budgets at BLAZE Esports [file:1][file:2].
 
-**Open to:** Internships · Research Opportunities · IoT/AI Projects · Collaborations
+**Open to:** Internships · Research Opportunities · IoT/AI Projects · Collaborations [file:1]
 
 ---
 
@@ -60,7 +60,7 @@ I combine technical building with leadership — from mentoring hardware teams t
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark"/>
 </p>
 
-### Frontend & Backend
+### Frameworks & Web
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,flask,html,css,js&theme=dark"/>
@@ -76,25 +76,25 @@ I combine technical building with leadership — from mentoring hardware teams t
 
 ## Core Expertise
 
-| Domain | Proficiency | Details |
+| Domain | Level | Details |
 |---|---|---|
-| **Embedded Systems** | Advanced | ESP32, Arduino, Raspberry Pi, sensor integration |
-| **IoT & Cloud** | Advanced | Azure IoT Hub, MQTT, real-time dashboards & alerts |
-| **Edge AI / Computer Vision** | Experienced | YOLOv5, EfficientNet-B0 transfer learning |
-| **Product Design** | Advanced | FastAPI, React.js, end-to-end prototyping |
-| **PCB & Circuit Design** | Certified | Proteus, Wokwi, Fritzing, Tinkercad |
-| **Machine Learning** | Intermediate | Predictive analytics, classification models |
+| **Embedded Systems** | Advanced | ESP32, Arduino, Raspberry Pi, sensor & microcontroller integration [file:1][file:2] |
+| **IoT & Cloud** | Advanced | Azure IoT Hub, MQTT, real-time dashboards & alerting [file:1] |
+| **Edge AI / Computer Vision** | Experienced | YOLOv5, EfficientNet-B0 transfer learning [file:1] |
+| **Product Design** | Advanced | FastAPI, React.js, rapid end-to-end prototyping [file:1] |
+| **PCB & Circuit Design** | Certified | Proteus, Wokwi, Fritzing, Tinkercad, PCB fabrication [file:2] |
+| **Machine Learning** | Intermediate | Predictive analytics, classification modeling [file:1] |
 
 ---
 
 ## Featured Projects
 
 <details>
-<summary><b>Landslide Detection & Monitoring — IoT Capstone Project</b></summary>
+<summary><b>Landslide Detection & Monitoring — IoT Capstone</b></summary>
 
 <br/>
 
-> Early warning system for landslide prediction using IoT and NDVI-based slope stability monitoring.
+> Early-warning system for landslide prediction using IoT sensor networks and NDVI-based slope stability monitoring.
 
 | Attribute | Detail |
 |---|---|
@@ -103,7 +103,7 @@ I combine technical building with leadership — from mentoring hardware teams t
 | **Cost Impact** | ₹5,000 prototype vs ₹50,000+ existing systems |
 | **Duration** | Aug 2024 – Present |
 
-**What it does:** Integrates sensor networks with NDVI data to detect early signs of slope instability, delivering a low-cost alternative to expensive commercial monitoring systems.
+**What it does:** Integrates sensor networks with NDVI data to catch early signs of slope instability, offering a low-cost alternative to expensive commercial systems [file:2].
 
 </details>
 
@@ -112,7 +112,7 @@ I combine technical building with leadership — from mentoring hardware teams t
 
 <br/>
 
-> RFID-based smart trolley that automates billing and inventory updates in real time.
+> RFID-based smart trolley automating billing and inventory updates in real time.
 
 | Attribute | Detail |
 |---|---|
@@ -122,7 +122,7 @@ I combine technical building with leadership — from mentoring hardware teams t
 | **Recognition** | Proposed for IEEE conference — ₹3,000 vs ₹15,000 existing design |
 | **Duration** | Jan 2025 – May 2025 |
 
-**What it does:** Combines RFID tagging with real-time inventory synchronization to eliminate manual checkout queues in retail settings.
+**What it does:** Combines RFID tagging with real-time inventory sync to eliminate manual billing queues in retail settings [file:2].
 
 </details>
 
@@ -136,11 +136,11 @@ I combine technical building with leadership — from mentoring hardware teams t
 | Attribute | Detail |
 |---|---|
 | **Stack** | ESP32 · NeoPixel · OLED · Sensors |
-| **Sensing** | Light, motion, and temperature cues |
+| **Sensing** | Light, motion, temperature |
 | **Output** | Dynamic LED, sound, and emoji feedback |
 | **Duration** | Jun 2025 – Jul 2025 |
 
-**What it does:** Reads ambient conditions and translates them into expressive visual and audio feedback, blending hardware sensing with playful UX.
+**What it does:** Reads ambient conditions and translates them into expressive visual/audio feedback, blending hardware sensing with playful UX [file:2].
 
 </details>
 
@@ -154,9 +154,9 @@ I combine technical building with leadership — from mentoring hardware teams t
 | Attribute | Detail |
 |---|---|
 | **Stack** | Python · EfficientNet-B0 · Transfer Learning |
-| **Category** | Honors project |
+| **Category** | Honors Project |
 
-**What it does:** Applies transfer learning on EfficientNet-B0 to distinguish plastic from non-plastic waste for automated sorting applications.
+**What it does:** Applies EfficientNet-B0 transfer learning to distinguish plastic from non-plastic waste for automated sorting [file:1].
 
 </details>
 
@@ -170,9 +170,9 @@ I combine technical building with leadership — from mentoring hardware teams t
 | Attribute | Detail |
 |---|---|
 | **Stack** | Python · Machine Learning |
-| **Category** | Honors project |
+| **Category** | Honors Project |
 
-**What it does:** Builds a predictive model analyzing sleep pattern data to estimate academic performance trends.
+**What it does:** Builds a predictive model analyzing sleep pattern data to estimate academic performance trends [file:1].
 
 </details>
 
@@ -181,30 +181,30 @@ I combine technical building with leadership — from mentoring hardware teams t
 ## Experience
 
 ### RoboTech — Phase-1 Contributor, Electronics & Embedded Systems
-`March 2026 – Present`
+`March 2026 – Present · Ludhiana`
 
-Working within the Research & Foundation track, focusing on embedded system architecture, system reasoning, and documentation-first engineering in a research-driven environment [file:1].
+Contributing to the Research & Foundation track, focusing on embedded system architecture, system reasoning, and documentation-first engineering [file:1].
 
 `Embedded Systems` `Architecture` `Documentation`
 
 ### BLAZE Esports Community — Executive Board Member
-`August 2023 – January 2026`
+`August 2023 – January 2026 · Patiala`
 
-Led execution of 10+ campus-wide gaming tournaments managing 150+ participants, handled ₹25,000+ operational budgets per event, and increased engagement by 40% through structured planning [file:1][file:2].
+Led execution of 10+ campus-wide gaming tournaments managing 150+ participants, handled ₹25,000+ operational budgets per event, and increased engagement by 40% through structured event planning [file:1][file:2].
 
 `Event Management` `Budgeting` `Leadership`
 
 ### IETE Students' Forum, TIET — Mentor
-`August 2022 – May 2023`
+`August 2022 – May 2023 · Patiala`
 
-Mentored hardware-based student projects (R/C car, height measurer, keypad systems) from ideation to deployment, guiding microcontroller and sensor-based prototypes and raising technical participation by 25% [file:1][file:2].
+Mentored 2-member teams building hardware projects (R/C car, height measurer, keypad system), guided microcontroller and sensor-based prototypes, and raised technical participation by 25% [file:1][file:2].
 
 `Mentorship` `Microcontrollers` `Prototyping`
 
 ### Campus Ambassador Roles
 `2023 – Present`
 
-Represented platforms including GUESSS India, MeetMux, and Hunch — driving student participation, marketing, and feedback collection to improve adoption [file:2].
+Represented GUESSS India, MeetMux, and Hunch — driving student participation, marketing outreach, and feedback collection to improve platform adoption [file:2].
 
 `Marketing` `Outreach` `Community Building`
 
@@ -222,7 +222,7 @@ Represented platforms including GUESSS India, MeetMux, and Hunch — driving stu
 
 </div>
 
-Relevant coursework: DBMS, Optimization, AI, Communication Systems, Innovation & Entrepreneurship, IoT Systems, Embedded Systems, Computer Architecture & Organization [file:2].
+**Relevant coursework:** DBMS, Optimization, AI, Communication Systems, Innovation & Entrepreneurship, IoT Systems, Embedded Systems, Computer Architecture & Organization [file:2].
 
 ---
 
@@ -310,7 +310,7 @@ Relevant coursework: DBMS, Optimization, AI, Communication Systems, Innovation &
 ## Current Focus
 
 ```yaml
-Working On:
+Building:
   - Smart Resource Management System (IoT + Azure + AI for energy, HVAC & water optimization)
   - Microplastic Detection System using YOLOv5 + edge devices
   - Real-time IoT monitoring systems with dashboards & alerts
@@ -320,7 +320,7 @@ Working With:
   - Python, YOLOv5, MQTT, Flask
   - Azure IoT Hub
 
-Focus Areas:
+Exploring:
   - Real-time monitoring systems
   - Edge AI deployment
   - Predictive analytics
