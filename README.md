@@ -42,13 +42,13 @@
 
 ## About Me
 
-I build **real-world IoT + AI systems** that solve practical problems — from smart energy optimization to environmental monitoring [file:1]. Rather than stopping at theory, I engineer end-to-end pipelines that combine embedded hardware, cloud platforms, and AI models.
+I build **real-world IoT + AI systems** that solve practical problems — from smart energy optimization to environmental monitoring. Rather than stopping at theory, I engineer end-to-end pipelines that combine embedded hardware, cloud platforms, and AI models.
 
-Currently a final-year **Electronics and Communication Engineering** student at **Thapar Institute of Engineering & Technology, Patiala** (2022–2026), with hands-on experience in ESP32/Arduino prototyping, YOLOv5-based edge AI, and Azure IoT Hub integration [file:1][file:2].
+Currently a final-year **Electronics and Communication Engineering** student at **Thapar Institute of Engineering & Technology, Patiala** (2022–2026), with hands-on experience in ESP32/Arduino prototyping, YOLOv5-based edge AI, and Azure IoT Hub integration.
 
-Beyond building, I lead — from mentoring hardware teams at IETE to running 150+ participant campus events with ₹25,000+ operational budgets at BLAZE Esports [file:1][file:2].
+Beyond building, I lead — from mentoring hardware teams at IETE to running 150+ participant campus events with ₹25,000+ operational budgets at BLAZE Esports.
 
-**Open to:** Internships · Research Opportunities · IoT/AI Projects · Collaborations [file:1]
+**Open to:** Internships · Research Opportunities · IoT/AI Projects · Collaborations
 
 ---
 
@@ -78,12 +78,12 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 
 | Domain | Level | Details |
 |---|---|---|
-| **Embedded Systems** | Advanced | ESP32, Arduino, Raspberry Pi, sensor & microcontroller integration [file:1][file:2] |
-| **IoT & Cloud** | Advanced | Azure IoT Hub, MQTT, real-time dashboards & alerting [file:1] |
-| **Edge AI / Computer Vision** | Experienced | YOLOv5, EfficientNet-B0 transfer learning [file:1] |
-| **Product Design** | Advanced | FastAPI, React.js, rapid end-to-end prototyping [file:1] |
-| **PCB & Circuit Design** | Certified | Proteus, Wokwi, Fritzing, Tinkercad, PCB fabrication [file:2] |
-| **Machine Learning** | Intermediate | Predictive analytics, classification modeling [file:1] |
+| **Embedded Systems** | Advanced | ESP32, Arduino, Raspberry Pi, sensor & microcontroller integration |
+| **IoT & Cloud** | Advanced | Azure IoT Hub, MQTT, real-time dashboards & alerting |
+| **Edge AI / Computer Vision** | Experienced | YOLOv5, EfficientNet-B0 transfer learning |
+| **Product Design** | Advanced | FastAPI, React.js, rapid end-to-end prototyping |
+| **PCB & Circuit Design** | Certified | Proteus, Wokwi, Fritzing, Tinkercad, PCB fabrication |
+| **Machine Learning** | Intermediate | Predictive analytics, classification modeling |
 
 ---
 
@@ -103,7 +103,7 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 | **Cost Impact** | ₹5,000 prototype vs ₹50,000+ existing systems |
 | **Duration** | Aug 2024 – Present |
 
-**What it does:** Integrates sensor networks with NDVI data to catch early signs of slope instability, offering a low-cost alternative to expensive commercial systems [file:2].
+**What it does:** Integrates sensor networks with NDVI data to catch early signs of slope instability, offering a low-cost alternative to expensive commercial systems.
 
 </details>
 
@@ -122,7 +122,7 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 | **Recognition** | Proposed for IEEE conference — ₹3,000 vs ₹15,000 existing design |
 | **Duration** | Jan 2025 – May 2025 |
 
-**What it does:** Combines RFID tagging with real-time inventory sync to eliminate manual billing queues in retail settings [file:2].
+**What it does:** Combines RFID tagging with real-time inventory sync to eliminate manual billing queues in retail settings.
 
 </details>
 
@@ -140,7 +140,7 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 | **Output** | Dynamic LED, sound, and emoji feedback |
 | **Duration** | Jun 2025 – Jul 2025 |
 
-**What it does:** Reads ambient conditions and translates them into expressive visual/audio feedback, blending hardware sensing with playful UX [file:2].
+**What it does:** Reads ambient conditions and translates them into expressive visual/audio feedback, blending hardware sensing with playful UX.
 
 </details>
 
@@ -156,7 +156,7 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 | **Stack** | Python · EfficientNet-B0 · Transfer Learning |
 | **Category** | Honors Project |
 
-**What it does:** Applies EfficientNet-B0 transfer learning to distinguish plastic from non-plastic waste for automated sorting [file:1].
+**What it does:** Applies EfficientNet-B0 transfer learning to distinguish plastic from non-plastic waste for automated sorting.
 
 </details>
 
@@ -172,7 +172,7 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 | **Stack** | Python · Machine Learning |
 | **Category** | Honors Project |
 
-**What it does:** Builds a predictive model analyzing sleep pattern data to estimate academic performance trends [file:1].
+**What it does:** Builds a predictive model analyzing sleep pattern data to estimate academic performance trends.
 
 </details>
 
@@ -183,28 +183,28 @@ Beyond building, I lead — from mentoring hardware teams at IETE to running 150
 ### RoboTech — Phase-1 Contributor, Electronics & Embedded Systems
 `March 2026 – Present · Ludhiana`
 
-Contributing to the Research & Foundation track, focusing on embedded system architecture, system reasoning, and documentation-first engineering [file:1].
+Contributing to the Research & Foundation track, focusing on embedded system architecture, system reasoning, and documentation-first engineering.
 
 `Embedded Systems` `Architecture` `Documentation`
 
 ### BLAZE Esports Community — Executive Board Member
 `August 2023 – January 2026 · Patiala`
 
-Led execution of 10+ campus-wide gaming tournaments managing 150+ participants, handled ₹25,000+ operational budgets per event, and increased engagement by 40% through structured event planning [file:1][file:2].
+Led execution of 10+ campus-wide gaming tournaments managing 150+ participants, handled ₹25,000+ operational budgets per event, and increased engagement by 40% through structured event planning.
 
 `Event Management` `Budgeting` `Leadership`
 
 ### IETE Students' Forum, TIET — Mentor
 `August 2022 – May 2023 · Patiala`
 
-Mentored 2-member teams building hardware projects (R/C car, height measurer, keypad system), guided microcontroller and sensor-based prototypes, and raised technical participation by 25% [file:1][file:2].
+Mentored 2-member teams building hardware projects (R/C car, height measurer, keypad system), guided microcontroller and sensor-based prototypes, and raised technical participation by 25%.
 
 `Mentorship` `Microcontrollers` `Prototyping`
 
 ### Campus Ambassador Roles
 `2023 – Present`
 
-Represented GUESSS India, MeetMux, and Hunch — driving student participation, marketing outreach, and feedback collection to improve platform adoption [file:2].
+Represented GUESSS India, MeetMux, and Hunch — driving student participation, marketing outreach, and feedback collection to improve platform adoption.
 
 `Marketing` `Outreach` `Community Building`
 
@@ -222,7 +222,7 @@ Represented GUESSS India, MeetMux, and Hunch — driving student participation, 
 
 </div>
 
-**Relevant coursework:** DBMS, Optimization, AI, Communication Systems, Innovation & Entrepreneurship, IoT Systems, Embedded Systems, Computer Architecture & Organization [file:2].
+**Relevant coursework:** DBMS, Optimization, AI, Communication Systems, Innovation & Entrepreneurship, IoT Systems, Embedded Systems, Computer Architecture & Organization
 
 ---
 
