@@ -1,26 +1,364 @@
-# 💫 About Me:
-🔑 I'm currently working on: IoT-based smart monitoring systems, including a predictive landslide early warning project.<br><br>🍀 I'm looking to collaborate on: Embedded systems, IoT projects, and sensor integration applications.<br><br>🌟 I'm looking for help with: Exploring AI-integrated IoT and low-power embedded architectures.<br><br>📚 I'm currently learning: Advanced AI integration techniques for IoT and low-power embedded system design.<br><br>📝 Ask me about: Embedded C/C++, ESP32, Arduino, and building cost-effective hardware prototypes.<br><br>🎓 I built a retro gaming console just so I could justify playing Snake during "hardware testing sessions.<br><br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.jayrana) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jayant-singh-rana-a1a729265/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/just_jayrana) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jayantrana2004@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-### ✍️ Random Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-
-## Visitor Count
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=JayantSRana&color=brightgreen&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-[![](https://visitcount.itsvg.in/api?id=JayantSRana&label=Total%20Visitors&color=13&icon=10&pretty=true)](https://visitcount.itsvg.in)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Jayant+Singh+Rana;IoT+%26+Embedded+Systems+Engineer;AI+%2F+Edge+AI+Builder;Electronics+%26+Communication+Engineer;Product+Design+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/BE_ECE-Thapar_Institute-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CBSE_XII-83.6%25-10B981?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Ludhiana,_Punjab,_India-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/jayant-singh-rana-a1a729265/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:jrana_be22@thapar.edu">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/JayantSRana" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=JayantSRana&color=7C3AED&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/JayantSRana?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/JayantSRana?style=flat-square&color=A78BFA&label=Stars"/>
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
+
+---
+
+## About
+
+I am an **Electronics & Communication Engineering** student building **real-world IoT + AI systems** — from smart energy optimization to environmental monitoring. Instead of just learning concepts, I focus on end-to-end systems that combine embedded hardware, cloud platforms, and AI models.
+
+Currently pursuing my B.E. at **Thapar Institute of Engineering & Technology, Patiala** (2022–2026), with hands-on work spanning ESP32/Arduino prototyping, YOLOv5-based edge AI, and Azure IoT Hub cloud integration.
+
+I combine technical building with leadership — from mentoring hardware teams to managing 150+ participant campus events with ₹25,000+ operational budgets.
+
+**Open to:** Internships · Research Opportunities · IoT/AI Projects · Collaborations
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java&theme=dark"/>
+</p>
+
+### Frontend & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flask,html,css,js&theme=dark"/>
+</p>
+
+### IoT, Hardware & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,azure,git,github&theme=dark"/>
+</p>
+
+---
+
+## Core Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **Embedded Systems** | Advanced | ESP32, Arduino, Raspberry Pi, sensor integration |
+| **IoT & Cloud** | Advanced | Azure IoT Hub, MQTT, real-time dashboards & alerts |
+| **Edge AI / Computer Vision** | Experienced | YOLOv5, EfficientNet-B0 transfer learning |
+| **Product Design** | Advanced | FastAPI, React.js, end-to-end prototyping |
+| **PCB & Circuit Design** | Certified | Proteus, Wokwi, Fritzing, Tinkercad |
+| **Machine Learning** | Intermediate | Predictive analytics, classification models |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>Landslide Detection & Monitoring — IoT Capstone Project</b></summary>
+
+<br/>
+
+> Early warning system for landslide prediction using IoT and NDVI-based slope stability monitoring.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | IoT · NDVI · ESP32 · Sensors |
+| **Accuracy** | 85% slope stability monitoring accuracy |
+| **Cost Impact** | ₹5,000 prototype vs ₹50,000+ existing systems |
+| **Duration** | Aug 2024 – Present |
+
+**What it does:** Integrates sensor networks with NDVI data to detect early signs of slope instability, delivering a low-cost alternative to expensive commercial monitoring systems.
+
+</details>
+
+<details>
+<summary><b>Smart Trolley — Automatic Billing System (Team Lead)</b></summary>
+
+<br/>
+
+> RFID-based smart trolley that automates billing and inventory updates in real time.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | IoT · Arduino · RFID · LCD |
+| **Impact** | 70% reduction in checkout time |
+| **Team** | Led a 4-member team |
+| **Recognition** | Proposed for IEEE conference — ₹3,000 vs ₹15,000 existing design |
+| **Duration** | Jan 2025 – May 2025 |
+
+**What it does:** Combines RFID tagging with real-time inventory synchronization to eliminate manual checkout queues in retail settings.
+
+</details>
+
+<details>
+<summary><b>Emotional Lamp — Mood-Sensing Light</b></summary>
+
+<br/>
+
+> IoT lamp that senses environmental cues and reflects them through dynamic light, sound, and emoji feedback.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | ESP32 · NeoPixel · OLED · Sensors |
+| **Sensing** | Light, motion, and temperature cues |
+| **Output** | Dynamic LED, sound, and emoji feedback |
+| **Duration** | Jun 2025 – Jul 2025 |
+
+**What it does:** Reads ambient conditions and translates them into expressive visual and audio feedback, blending hardware sensing with playful UX.
+
+</details>
+
+<details>
+<summary><b>Plastic vs. Non-Plastic Waste Classification</b></summary>
+
+<br/>
+
+> Computer vision project classifying waste material using transfer learning.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · EfficientNet-B0 · Transfer Learning |
+| **Category** | Honors project |
+
+**What it does:** Applies transfer learning on EfficientNet-B0 to distinguish plastic from non-plastic waste for automated sorting applications.
+
+</details>
+
+<details>
+<summary><b>Predicting Academic Performance from Sleep Patterns</b></summary>
+
+<br/>
+
+> Machine learning approach correlating sleep behavior with academic outcomes.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · Machine Learning |
+| **Category** | Honors project |
+
+**What it does:** Builds a predictive model analyzing sleep pattern data to estimate academic performance trends.
+
+</details>
+
+---
+
+## Experience
+
+### RoboTech — Phase-1 Contributor, Electronics & Embedded Systems
+`March 2026 – Present`
+
+Working within the Research & Foundation track, focusing on embedded system architecture, system reasoning, and documentation-first engineering in a research-driven environment [file:1].
+
+`Embedded Systems` `Architecture` `Documentation`
+
+### BLAZE Esports Community — Executive Board Member
+`August 2023 – January 2026`
+
+Led execution of 10+ campus-wide gaming tournaments managing 150+ participants, handled ₹25,000+ operational budgets per event, and increased engagement by 40% through structured planning [file:1][file:2].
+
+`Event Management` `Budgeting` `Leadership`
+
+### IETE Students' Forum, TIET — Mentor
+`August 2022 – May 2023`
+
+Mentored hardware-based student projects (R/C car, height measurer, keypad systems) from ideation to deployment, guiding microcontroller and sensor-based prototypes and raising technical participation by 25% [file:1][file:2].
+
+`Mentorship` `Microcontrollers` `Prototyping`
+
+### Campus Ambassador Roles
+`2023 – Present`
+
+Represented platforms including GUESSS India, MeetMux, and Hunch — driving student participation, marketing, and feedback collection to improve adoption [file:2].
+
+`Marketing` `Outreach` `Community Building`
+
+---
+
+## Education
+
+<div align="center">
+
+| Institution | Degree | Duration |
+|---|---|---|
+| Thapar Institute of Engineering & Technology | B.E. Electronics and Communication Engineering | 2022 – 2026 |
+| Bharat Vidya Mandir, Ludhiana | Senior Secondary (CBSE), Non-Medical — 83.6% | 2020 – 2022 |
+| Ryan International School | Secondary Education (CBSE), Class X | 2018 – 2020 |
+
+</div>
+
+Relevant coursework: DBMS, Optimization, AI, Communication Systems, Innovation & Entrepreneurship, IoT Systems, Embedded Systems, Computer Architecture & Organization [file:2].
+
+---
+
+## Certifications & Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| Vice Proctor | E-Block, Anantam Hall (2025–26) |
+| FM Radio Transmitter | Technical Certification (Jul 2024) |
+| DC Power Supply | Technical Certification (Dec 2023) |
+| PCB Fabrication | Technical Certification (Mar 2022) |
+| OWASP Overnight Hackathon | Participant (Sep 2024) |
+| Thapar Venture Club Orientation | Special Mention for Innovation (2022) |
+
+</div>
+
+---
+
+## Tools & Platforms
+
+<div align="center">
+
+![Arduino](https://img.shields.io/badge/Arduino-ESP32-00979D?style=flat-square&logo=arduino&logoColor=white)
+&nbsp;
+![MATLAB](https://img.shields.io/badge/MATLAB-Simulation-orange?style=flat-square)
+&nbsp;
+![Proteus](https://img.shields.io/badge/Proteus-Circuit_Design-1BA0D7?style=flat-square)
+&nbsp;
+![Wokwi](https://img.shields.io/badge/Wokwi-Simulation-7C3AED?style=flat-square)
+&nbsp;
+![Fritzing](https://img.shields.io/badge/Fritzing-PCB_Design-F44A47?style=flat-square)
+&nbsp;
+![Tinkercad](https://img.shields.io/badge/Tinkercad-Prototyping-1BA0D7?style=flat-square)
+&nbsp;
+![Blynk](https://img.shields.io/badge/Blynk-IoT_Platform-00ADEF?style=flat-square)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=JayantSRana&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=JayantSRana&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JayantSRana&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=JayantSRana&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JayantSRana&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Working On:
+  - Smart Resource Management System (IoT + Azure + AI for energy, HVAC & water optimization)
+  - Microplastic Detection System using YOLOv5 + edge devices
+  - Real-time IoT monitoring systems with dashboards & alerts
+
+Working With:
+  - ESP32, Arduino, Raspberry Pi
+  - Python, YOLOv5, MQTT, Flask
+  - Azure IoT Hub
+
+Focus Areas:
+  - Real-time monitoring systems
+  - Edge AI deployment
+  - Predictive analytics
+  - Sustainable & smart technology solutions
+
+Open To:
+  - Internships
+  - Research Opportunities
+  - IoT / AI Projects
+  - Collaborations
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:jrana_be22@thapar.edu">
+  <img src="https://img.shields.io/badge/Gmail-jrana__be22@thapar.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/jayant-singh-rana-a1a729265/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Jayant_Singh_Rana-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/JayantSRana" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-JayantSRana-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Building at the intersection of IoT, embedded systems, and edge AI.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>
